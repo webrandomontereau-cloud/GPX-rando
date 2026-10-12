@@ -22,7 +22,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; OpenStreetMap'
 }).addTo(map);
 
-var traceUrl = "https://webrandomontereau-cloud.github.io/GPX-rando/arbres-remarquables-du-secteur-de-la-mare-a-piat-u5HdxmgvFz.gpx";
+var traceUrl = "https://webrandomontereau-cloud.github.io/GPX-rando/arbres-remarquables-du-secteur-de-la-mare-a-piat-u5HdxmgvFz.xml";
 
 new L.GPX(traceUrl, { async: true })
   .on('loaded', function(e) {
