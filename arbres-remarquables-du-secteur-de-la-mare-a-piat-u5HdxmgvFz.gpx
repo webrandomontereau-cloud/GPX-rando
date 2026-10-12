@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="VisuGPX">
+  <metadata>
+    <name><![CDATA[Arbres Remarquables du secteur de la Mare à Piat]]></name>
+    <desc><![CDATA[Départ du parking de Belle-Croix (attention à la traversée) balade à la découverte des ronds bleus des arbres remarquables : Chêne Eugène Sue, du Houx, du Genevrier, des Hêtres, des pins sylvestre, des Séquoia toujours vert, des sorbiers, du pin noir d'Autriche, prenez le temps d epasser voir la grotte aux Cristaux et passer devant la fontaine Maria.]]></desc>
+  <name><![CDATA[Arbres Remarquables du secteur de la Mare à Piat]]></name><desc><![CDATA[Départ du parking de Belle-Croix (attention à la traversée) balade à la découverte des ronds bleus des arbres remarquables : Chêne Eugène Sue, du Houx, du Genevrier, des Hêtres, des pins sylvestre, des Séquoia toujours vert, des sorbiers, du pin noir d\'Autriche, prenez le temps d epasser voir la grotte aux Cristaux et passer devant la fontaine Maria.]]></desc></metadata>
+  <wpt lat="48.44126" lon="2.66912">
+    <ele>135.2</ele>
+    <type><![CDATA[park]]></type>
+  </wpt>
+  <wpt lat="48.44188" lon="2.66277">
+    <ele>114</ele>
+    <name><![CDATA[A]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Chêne Eugène Sue]]></desc>
+  </wpt>
+  <wpt lat="48.44245" lon="2.66026">
+    <ele>112.7</ele>
+    <name><![CDATA[B]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Genevrier commun]]></desc>
+  </wpt>
+  <wpt lat="48.44321" lon="2.66054">
+    <ele>131.6</ele>
+    <name><![CDATA[C]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Houx commun]]></desc>
+  </wpt>
+  <wpt lat="48.44425" lon="2.66347">
+    <ele>135.3</ele>
+    <name><![CDATA[R]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Pin Sylvestre]]></desc>
+  </wpt>
+  <wpt lat="48.44411" lon="2.66476">
+    <ele>137.1</ele>
+    <name><![CDATA[S]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Pin noir d'Autriche 2.75m]]></desc>
+  </wpt>
+  <wpt lat="48.44435" lon="2.66515">
+    <ele>138</ele>
+    <name><![CDATA[T]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Pin noir d'Autriche]]></desc>
+  </wpt>
+  <wpt lat="48.44403" lon="2.66592">
+    <ele>137.8</ele>
+    <name><![CDATA[U]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[pin noir d'Autriche]]></desc>
+  </wpt>
+  <wpt lat="48.44433" lon="2.66648">
+    <ele>138</ele>
+    <name><![CDATA[V]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Pin noir d'Autriche]]></desc>
+  </wpt>
+  <wpt lat="48.44399" lon="2.66685">
+    <ele>137.4</ele>
+    <name><![CDATA[W]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Pin noir d'Autriche]]></desc>
+  </wpt>
+  <wpt lat="48.44394" lon="2.6677">
+    <ele>138</ele>
+    <name><![CDATA[X]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Chêne sessile 4.24m]]></desc>
+  </wpt>
+  <wpt lat="48.44391" lon="2.66837">
+    <ele>139</ele>
+    <name><![CDATA[Y]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Chêne sessile  5.22m]]></desc>
+  </wpt>
+  <wpt lat="48.44899" lon="2.66234">
+    <ele>137.6</ele>
+    <name><![CDATA[F]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Pin sylvestre tordu]]></desc>
+  </wpt>
+  <wpt lat="48.45222" lon="2.65935">
+    <ele>136</ele>
+    <name><![CDATA[G]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Tilleuls]]></desc>
+  </wpt>
+  <wpt lat="48.45154" lon="2.65912">
+    <ele>137</ele>
+    <name><![CDATA[H]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Tilleuls]]></desc>
+  </wpt>
+  <wpt lat="48.45138" lon="2.6585">
+    <ele>136</ele>
+    <name><![CDATA[J]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Hêtre commun]]></desc>
+  </wpt>
+  <wpt lat="48.45118" lon="2.65734">
+    <ele>136</ele>
+    <name><![CDATA[K]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Chêne pubescent]]></desc>
+  </wpt>
+  <wpt lat="48.4497" lon="2.64511">
+    <ele>134.2</ele>
+    <name><![CDATA[L]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Sorbier]]></desc>
+  </wpt>
+  <wpt lat="48.44842" lon="2.64796">
+    <ele>134.3</ele>
+    <name><![CDATA[M]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Chêne pubescent]]></desc>
+  </wpt>
+  <wpt lat="48.44911" lon="2.6568">
+    <ele>136.6</ele>
+    <name><![CDATA[P]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Séquoia toujours vert]]></desc>
+  </wpt>
+  <wpt lat="48.44866" lon="2.65734">
+    <ele>136</ele>
+    <name><![CDATA[N]]></name>
+    <type><![CDATA[patrimoine_vegetal]]></type>
+    <desc><![CDATA[Sorbier domestique]]></desc>
+  </wpt>
+  <trk>
+    <name><![CDATA[Arbres Mare à Piat-16980668]]></name>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>FF0019</color>
+        <opacity>1</opacity>
+        <width>4</width>
+      </line>
+    </extensions>
+    <trkseg>
+      <trkpt lat="48.44168" lon="2.66921">
+        <ele>134.9</ele>
+        <time>2023-06-14T08:48:27Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44177" lon="2.66929">
+        <ele>135.5</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44183" lon="2.66966">
+        <ele>135.7</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44199" lon="2.66968">
+        <ele>137</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44214" lon="2.67017">
+        <ele>135.9</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44243" lon="2.67002">
+        <ele>136.7</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44282" lon="2.67079">
+        <ele>137</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44325" lon="2.67009">
+        <ele>135.3</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44348" lon="2.67017">
+        <ele>135.7</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44359" lon="2.6709">
+        <ele>135.3</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44381" lon="2.67146">
+        <ele>137.5</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44376" lon="2.66865">
+        <ele>139.1</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44392" lon="2.6665">
+        <ele>137.1</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44401" lon="2.66446">
+        <ele>136.5</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44448" lon="2.66331">
+        <ele>136.1</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44509" lon="2.662">
+        <ele>135.4</ele>
+        <time>2023-06-14T08:49:32Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.4452" lon="2.66165">
+        <ele>135</ele>
+        <time>2023-06-14T08:51:50Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44607" lon="2.66253">
+        <ele>137.8</ele>
+        <time>2023-06-14T08:52:55Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44793" lon="2.66425">
+        <ele>144</ele>
+        <time>2023-06-14T09:00:05Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.45201" lon="2.65939">
+        <ele>145</ele>
+        <time>2023-06-14T09:11:39Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.45165" lon="2.6576">
+        <ele>136</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.4545" lon="2.65577">
+        <ele>135.6</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.45504" lon="2.65419">
+        <ele>134</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.45451" lon="2.65026">
+        <ele>134</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.45568" lon="2.64612">
+        <ele>134.5</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.4529" lon="2.64462">
+        <ele>135</ele>
+        <time>2023-06-14T09:30:35Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.4504" lon="2.64378">
+        <ele>135.8</ele>
+        <time>2023-06-14T09:31:51Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44929" lon="2.64348">
+        <ele>131.7</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44963" lon="2.6441">
+        <ele>132.3</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44953" lon="2.64685">
+        <ele>134.8</ele>
+        <time>2023-06-14T09:36:01Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44931" lon="2.64709">
+        <ele>142</ele>
+        <time>2023-06-14T09:36:55Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>compacted</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44895" lon="2.64764">
+        <ele>143</ele>
+        <time>2023-06-14T09:38:03Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>compacted</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44847" lon="2.64875">
+        <ele>144</ele>
+        <time>2023-06-14T09:40:00Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>compacted</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44808" lon="2.64985">
+        <ele>142</ele>
+        <time>2023-06-14T09:41:51Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>compacted</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44777" lon="2.65094">
+        <ele>141</ele>
+        <time>2023-06-14T09:43:36Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>compacted</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44835" lon="2.65252">
+        <ele>140</ele>
+        <time>2023-06-14T09:46:16Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>compacted</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44885" lon="2.65335">
+        <ele>140</ele>
+        <time>2023-06-14T09:47:55Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>compacted</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.449" lon="2.65413">
+        <ele>139</ele>
+        <time>2023-06-14T09:49:07Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44862" lon="2.65588">
+        <ele>140</ele>
+        <time>2023-06-14T09:51:50Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.449" lon="2.65706">
+        <ele>143</ele>
+        <time>2023-06-14T09:53:46Z</time>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44853" lon="2.65608">
+        <ele>139</ele>
+        <time>2023-06-14T09:55:33Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44852" lon="2.6553">
+        <ele>131.1</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44819" lon="2.65479">
+        <ele>124.3</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44792" lon="2.65509">
+        <ele>121.9</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44688" lon="2.65391">
+        <ele>114.5</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44678" lon="2.65461">
+        <ele>114.6</ele>
+        <time>2023-06-14T09:58:17Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.4465" lon="2.65489">
+        <ele>118.1</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44614" lon="2.65494">
+        <ele>124</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44604" lon="2.65528">
+        <ele>127</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44571" lon="2.65558">
+        <ele>130.9</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44496" lon="2.65828">
+        <ele>134</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.445" lon="2.65867">
+        <ele>133.8</ele>
+        <time>2023-06-14T10:02:22Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44537" lon="2.65964">
+        <ele>131.9</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44536" lon="2.66007">
+        <ele>133</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44492" lon="2.66015">
+        <ele>133.3</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44493" lon="2.65979">
+        <ele>133.2</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44468" lon="2.65923">
+        <ele>134.2</ele>
+        <time>2023-06-14T10:07:06Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44465" lon="2.65882">
+        <ele>134.2</ele>
+        <time>2023-06-14T10:08:47Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44439" lon="2.65873">
+        <ele>134.2</ele>
+        <time>2023-06-14T10:11:03Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44395" lon="2.65848">
+        <ele>133</ele>
+        <time>2023-06-14T10:14:54Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44344" lon="2.65852">
+        <ele>130.9</ele>
+        <time>2023-06-14T10:19:30Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44322" lon="2.65893">
+        <ele>127.5</ele>
+        <time>2023-06-14T10:20:19Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44341" lon="2.65918">
+        <ele>129.4</ele>
+        <time>2023-06-14T10:20:54Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44348" lon="2.65948">
+        <ele>128.3</ele>
+        <time>2023-06-14T10:21:41Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44374" lon="2.65985">
+        <ele>128.6</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44381" lon="2.66015">
+        <ele>128.3</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44359" lon="2.66034">
+        <ele>125.4</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44341" lon="2.66002">
+        <ele>124.7</ele>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44317" lon="2.66002">
+        <ele>121.9</ele>
+        <time>2023-06-14T10:22:22Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44301" lon="2.66019">
+        <ele>123.3</ele>
+        <time>2023-06-14T10:23:10Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44265" lon="2.66038">
+        <ele>120.2</ele>
+        <time>2023-06-14T10:24:37Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44234" lon="2.66081">
+        <ele>115.1</ele>
+        <time>2023-06-14T10:26:02Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44221" lon="2.66169">
+        <ele>114</ele>
+        <time>2023-06-14T10:26:43Z</time>
+        <extensions>
+          <type>
+            <highway>path</highway>
+            <surface>undefined</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44179" lon="2.66275">
+        <ele>112.6</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>paving_stones</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.4416" lon="2.665">
+        <ele>128</ele>
+        <extensions>
+          <type>
+            <highway>track</highway>
+            <surface>paving_stones</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.44152" lon="2.6685">
+        <ele>136.8</ele>
+        <extensions>
+          <type>
+            <highway>service</highway>
+            <surface>asphalt</surface>
+            </type>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.4416" lon="2.66899">
+        <ele>136</ele>
+        <time>2023-06-14T10:27:32Z</time>
+        <extensions>
+          <type>
+            <highway>service</highway>
+            <surface>asphalt</surface>
+            </type>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
